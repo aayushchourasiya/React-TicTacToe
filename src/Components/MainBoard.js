@@ -606,7 +606,8 @@ const MainBoard = () => {
   };
   return (
     <>
-      {/* <div
+      {//If we want to show photo on screen when someone win, use this code!
+        /* <div
         style={{ position: "absolute", zIndex: "1" , marginTop:"-80px"}}
       >
         {imageBody}
